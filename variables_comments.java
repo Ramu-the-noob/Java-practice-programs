@@ -6,6 +6,7 @@ public class variables_comments {
         double c =0.0; //decimal numbers
         char d = '0'; //character
         String e = "string"; //string
+        boolean f = true; // booleans
         
         /*
         this
